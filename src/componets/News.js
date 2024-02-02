@@ -56,7 +56,7 @@ function News(props) {
           disabled={currentPage === 1}
           className="pagination-button btn btn-primary"
         >
-          Previous
+          Previou s
         </button>
         <span className="pagination-info">{`Page ${currentPage} of ${totalPages}`}</span>
         <button

@@ -58,7 +58,7 @@ function Navbar({ setSearchWord, searchWord }) {
             </li>
             <li class="nav-item active">
             <Link className="nav-link " to="/science">
-              Science
+              Scienc e
             </Link>
             </li>
           </ul>
